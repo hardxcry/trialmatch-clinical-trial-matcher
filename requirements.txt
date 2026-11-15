@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+rank-bm25
+sentence-transformers
+torch
+matplotlib
+plotly
+streamlit
+-e .
