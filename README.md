@@ -1,4 +1,6 @@
-﻿# TrialMatch: matching patients to recruiting clinical trials
+# TrialMatch: matching patients to recruiting clinical trials
+
+![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/status-research%20prototype-f59e0b) ![Tests](https://img.shields.io/badge/tests-17%20passing-16a34a) ![Licence](https://img.shields.io/badge/licence-all%20rights%20reserved-b91c1c)
 
 Describe a patient in plain language and get recruiting trials from ClinicalTrials.gov, ranked
 by relevance, with age and sex limits checked and the most relevant eligibility criteria shown.
@@ -78,4 +80,6 @@ Hariharan S, Department of Biomedical Engineering.
 
 ## License
 
-MIT.
+Copyright (c) 2026 Hariharan S. **All rights reserved.** This repository is public for viewing
+and evaluation only. Copying, reuse or redistribution of the code, text, figures or models
+needs written permission from the author. See [LICENSE](LICENSE). ClinicalTrials.gov records and TREC topics belong to their publishers.
